@@ -1,7 +1,7 @@
 # hamming-ecc
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dragosefrem/hamming-ecc/tree/main/docs/rounded_icon.png" width = "200" height = "200">
+  <img src="https://github.com/dragosefrem/hamming-ecc/blob/main/docs/rounded_logo.png" width = "200" height = "200">
 </p>
 
 Verilog module that receives a data input on 32 bits and returns the data output on 32 bits, where the flipped bit is corrected. If there are two bit flips, then a signal will be activated stating so. Corrections are made based on Hamming's code. Small project made for the Computer Arhitecture lab during my second year of Computer Engineering studies at Polytechnic University of Timișoara.
