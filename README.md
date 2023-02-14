@@ -41,4 +41,4 @@ Read more about the vision of this project by visiting the [documentation](https
 
 ## License
 
-[GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
+[MIT](https://choosealicense.com/licenses/mit/)
